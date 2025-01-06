@@ -8,6 +8,7 @@
 </h2>
 <div align='center'>
   <a href='https://github.com/EasternFarmer/The-Farmer-Was-Replaced'><img src='https://github-readme-stats.vercel.app/api/pin/?username=EasternFarmer&repo=The-Farmer-Was-Replaced&theme=transparent'></a>
+  <a href='https://github.com/EasternFarmer/Terminal_game'><img src='https://github-readme-stats.vercel.app/api/pin/?username=EasternFarmer&repo=Terminal_game&theme=transparent'></a>
   <!-- <img src='https://github-readme-stats.vercel.app/api/pin/?username=EasternFarmer&repo=EasternFarmer&theme=transparent'> -->
 </div>
 <h2>
